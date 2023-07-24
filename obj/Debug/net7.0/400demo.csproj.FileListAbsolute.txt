@@ -1,0 +1,15 @@
+/workspaces/400demo/bin/Debug/net7.0/400demo
+/workspaces/400demo/bin/Debug/net7.0/400demo.deps.json
+/workspaces/400demo/bin/Debug/net7.0/400demo.runtimeconfig.json
+/workspaces/400demo/bin/Debug/net7.0/400demo.dll
+/workspaces/400demo/bin/Debug/net7.0/400demo.pdb
+/workspaces/400demo/obj/Debug/net7.0/400demo.csproj.AssemblyReference.cache
+/workspaces/400demo/obj/Debug/net7.0/400demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/400demo/obj/Debug/net7.0/400demo.AssemblyInfoInputs.cache
+/workspaces/400demo/obj/Debug/net7.0/400demo.AssemblyInfo.cs
+/workspaces/400demo/obj/Debug/net7.0/400demo.csproj.CoreCompileInputs.cache
+/workspaces/400demo/obj/Debug/net7.0/400demo.dll
+/workspaces/400demo/obj/Debug/net7.0/refint/400demo.dll
+/workspaces/400demo/obj/Debug/net7.0/400demo.pdb
+/workspaces/400demo/obj/Debug/net7.0/400demo.genruntimeconfig.cache
+/workspaces/400demo/obj/Debug/net7.0/ref/400demo.dll
